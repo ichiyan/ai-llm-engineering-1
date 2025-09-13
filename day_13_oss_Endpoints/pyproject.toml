@@ -1,0 +1,17 @@
+[project]
+name = "17-deploying-open-source-endpoints"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "jupyter>=1.1.1",
+    "openai>=1.100.2",
+    "together>=1.5.25",
+    "python-dotenv>=1.0.0",
+    "langchain-community>=0.3.27",
+    "pymupdf>=1.26.3",
+    "langchain-together>=0.3.1",
+    "rank-bm25>=0.2.2",
+    "langchain-cohere>=0.4.5",
+]
